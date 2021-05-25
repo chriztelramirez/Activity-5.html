@@ -1,0 +1,68 @@
+<html>
+<head>
+   <title>time table</title>
+</head>
+<body bgcolor="Yellow">
+<H1><FONT COLOR="black"><CENTER>MY CLASS SCHEDULE</FONT></H1>
+<H1><FONT COLOR="black"><CENTER>CAVITE STATE UNIVERSITY</FONT></H1>
+<H1><FONT COLOR="black"><CENTER>BSIT 1-5</FONT></H1>
+<table border="10" cellspacing="4" align="center">
+<tr>
+ <td align="center">
+ <td>7:00-10:00
+ <td>10:00-1:00
+ <td>3:00:4:30
+ <td>11:00-12:00
+ <td>12:00-1:00
+ <td>1:00-3:00
+ <td>1:00-4:00
+</tr>
+<tr>
+ <td align="center"><h3>MONDAY
+ <td align="center"><h4><font align="center"><font color="black">Computer Programming 2<br>
+ <td align="center"><h4><font color="black">Art appreciation<br>
+ <td align="center"><h4><font color="black">Computer Programming 2<br>
+ <td rowspan="6"align="center">L<br>U<br>N<br>C<br>H
+ <td align="center"><h4><font color="maroon">---<br>
+ <td align="center"><h4><font color="brown">---<br>
+ <td align="center"><h4><font color="brown">---<br>
+</tr>
+<tr>
+ <td align="center"><h3>TUESDAY
+ <td align="center"><h4><font color="black">Filipino<br>
+ <td align="center"><font color="black">---<br>
+ <td align="center"><font color="black">---<br>
+ <td align="center"><h4><font color="black">Web System<br>
+ <td align="center"><h4><font color="black">P.E<BR>
+ <td align="center"><h4><font color="black">Web System<br>
+</tr>
+<tr>
+ <td align="center"><h3>WEDNESDAY
+ <td align="center"><h4><font color="black">Computer Programming 2<br>
+ <td align="center"><h4><font color="black">---<BR>
+ <td align="center"><h4><font color="black">---<br>
+ <td align="center"><h4>---
+ <td align="center"><h4><font color="black"> STS<br>
+ <td align="center"><h4><font color="black">---<br>
+</tr>
+<tr>
+ <td align="center"><h3>THURSDAY
+ <td align="center"><h4><font color="black">Mathematics<br>
+ <td align="center"><h4><font color="black">Computer Programming I<br>
+ <td align="center"><h4><font color="black">---<BR>
+ <td align="center"><h4>---
+ <td align="center"><h4><font color="black">---<br>
+ <td align="center"><h4><font color="black">---<br>
+</tr>
+<tr>
+ <td align="center"><h3>FRIDAY
+ <td align="center"><h4><font color="black">Introduction to Computing<BR>
+ <td align="center"><h4><font color="black">Introduction to Computing<br>
+ <td align="center"><h4><font color="black">---<br>
+ <td align="center"><h4>---
+ <td align="center"><h4><font color="black">---<br>
+ <td align="center"><h4><font color="black">---<br>
+
+</tr>
+</body>
+</html>
